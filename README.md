@@ -12,4 +12,4 @@ You are not required to create an account to use QuikAlpha. We do not use third-
 If you choose to purchase a subscription, the transaction is processed securely through Apple's App Store. QuikAlpha does not have access to your payment information, billing address, or Apple ID. Apple handles all payment processing and receipt management.
 
 ## Contact
-If you have any questions about this privacy policy or the application, please reach out via email at: quikalpha.support@gmail.com
+If you have any questions about this privacy policy or the application, please reach out via email at: <quikalpha.support@gmail.com>
